@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sudhir Borra</h1>
 <h3 align="center">A passionate Engineer with expertise in Firmware/Software Design for Embedded Systems.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/programmer- gif-19019116">
-
 - 🔭 I’m currently working on **Data logger using STM32.**
 
 - 🔭 I’m currently working on **Data logger using Beagle Bone Black.**
