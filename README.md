@@ -8,8 +8,6 @@
 - 🔭 I’m currently working on **Device Drivers for Data logger using BeagleBone Black.**
   
 - 💬 Ask me about **Embedded Systems.**
-  
-- 📫 How to reach me **sudhirborra6163@gmail.com.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
