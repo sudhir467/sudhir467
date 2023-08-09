@@ -4,9 +4,10 @@
 <img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
 - 🔭 I’m currently working on **Firmware Design for Data logger using STM32.**
-
 - 🔭 I’m currently working on **Device Drivers for Data logger using BeagleBone Black.**
-  
+- 🔭 I have good knowledge on **GPIO, SPI, I2C, UART, TIMERS, ADC, CAN, RTC, DMA, Bootloader.**
+- 🔭 I have good knowledge on **Linux Device driver development, Linux System Programming, Yocto, Buildroot, Shell Scripting.**
+- 🔭 I have good knowledge on **Git, Kubernetes, Docker, Mysql, CI/CD using Jenkins, AWS.**
 - 💬 Ask me about **Embedded Systems.**
 
 <h3 align="left">Connect with me:</h3>
